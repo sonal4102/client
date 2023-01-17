@@ -1,6 +1,6 @@
 PROJECT NAME: This is an React Chat Application
 
-TECHNOLOGY USED: Technologies used in making of this project are: React, GetStream.io, BEM CSS etc.
+TECHNOLOGY USED: Technologies used in making of this project are: React, GetStream.io(for backend), BEM CSS etc.
 
 FEATURES: Using this project, we can have Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, and much more.
 
